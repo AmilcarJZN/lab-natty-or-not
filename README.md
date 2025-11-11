@@ -1,4 +1,4 @@
-```markdown
+
 # Locadora Construmaq
 
 ## 📒 Descrição
@@ -17,6 +17,6 @@ Apresente os resultados do seu projeto
 https://github.com/AmilcarJZN/lab-natty-or-not/blob/main/avatar_video_1762868204.mp4
 ## 💭 Reflexão (Opcional)
 Foi interessante ver como podemos ir de uma IA especializada para a outra, carregando sua produção até o produto final, é visível que é necessário dominar os parâmetros de cada uma para obter um resultado melhor, como velocidade do áudio, por exemplo.
-```
+
 
 
