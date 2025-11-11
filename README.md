@@ -14,14 +14,9 @@ Criar um avatar vitual fazendo a apresentação de uma empresa de locação de m
 3- O áudio foi colocado no Heygen Avatar para a 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-
+https://github.com/AmilcarJZN/lab-natty-or-not/blob/main/avatar_video_1762868204.mp4
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi interessante ver como podemos ir de uma IA especializada para a outra, carregando sua produção até o produto final, é visível que é necessário dominar os parâmetros de cada uma para obter um resultado melhor, como velocidade do áudio, por exemplo.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
