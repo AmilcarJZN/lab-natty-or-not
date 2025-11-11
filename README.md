@@ -9,9 +9,9 @@ Criar um avatar vitual fazendo a apresentação de uma empresa de locação de m
 - **Elevenlabs:** para gerar o som
 - **Heygen Avatar:** para gerar o avatar
 ## 🧐 Processo de Criação
-1- Foi Socicitado o roteiro ao GPT-5
-2- O roteiro foi adicionado ao Elevenlabs para gerar o áudio
-3- O áudio foi colocado no Heygen Avatar para a 
+1- Foi Socicitado o roteiro ao GPT-5  
+2- O roteiro foi adicionado ao Elevenlabs para gerar o áudio  
+3- O áudio foi colocado no Heygen Avatar para gerar o avatar     
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 https://github.com/AmilcarJZN/lab-natty-or-not/blob/main/avatar_video_1762868204.mp4
